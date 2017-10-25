@@ -1,0 +1,12 @@
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/domain/EmailEntity.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/services/IEmailCreationService.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/utils/PropertyFileReader.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/common/AppConstants.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/SendEmailSample.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/repositories/EmailRepository.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/logger/LoggerFactory.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/services/EmailCreationService.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/logger/ILogger.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/EmailApplication.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/logger/FileAppenderLog.java
+/Users/299787/Downloads/workspace/Email/src/main/java/com/palusers/email/scheduler/ScheduledTasks.java

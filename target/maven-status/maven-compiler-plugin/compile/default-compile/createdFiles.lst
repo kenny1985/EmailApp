@@ -1,0 +1,13 @@
+com/palusers/email/common/AppConstants$DeletionStatus.class
+com/palusers/email/common/AppConstants.class
+com/palusers/email/scheduler/ScheduledTasks.class
+com/palusers/email/logger/ILogger.class
+com/palusers/email/EmailApplication.class
+com/palusers/email/repositories/EmailRepository.class
+com/palusers/email/logger/LoggerFactory.class
+com/palusers/email/services/EmailCreationService.class
+com/palusers/email/logger/FileAppenderLog.class
+com/palusers/email/SendEmailSample.class
+com/palusers/email/domain/EmailEntity.class
+com/palusers/email/services/IEmailCreationService.class
+com/palusers/email/utils/PropertyFileReader.class
